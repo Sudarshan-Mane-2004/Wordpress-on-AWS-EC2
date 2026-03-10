@@ -16,7 +16,7 @@ The website is hosted on an **AWS EC2 instance** and accessed through the **publ
 ---
 
 # 🏗 Architecture
-
+```
 User Browser
 │
 ▼
@@ -26,7 +26,7 @@ AWS EC2 Instance
 ├── PHP-FPM
 ├── MySQL Database
 └── WordPress Application
-
+```
 ---
 
 # ☁️ AWS EC2 Server Creation
